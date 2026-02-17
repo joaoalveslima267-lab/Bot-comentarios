@@ -1,14 +1,14 @@
 ﻿F12::
-Loop 100
+Loop 150
 {
    Loop 5
    {
 	Send {Click Left}
-	Sleep 500
-	Send 😂
-	Sleep 200
+	Sleep 100
+	Send 💜
+	Sleep 100
 	Send {Enter Down} {Enter Up}
-	Sleep 5000
+	Sleep 1300
     }
 
 
